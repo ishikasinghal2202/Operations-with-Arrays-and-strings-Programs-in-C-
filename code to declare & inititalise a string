@@ -1,0 +1,28 @@
+#Name : Ishika Singhal PRN: 24070123048
+
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+    char str1[] = "Hello";
+
+  
+    string str2 = "World";                  
+    string str3("Welcome");                 
+    string str4(str2);                      
+    string str5(5, '*');                  
+    string str6 = str2 + " to C++";         
+    string str7;                            
+    str7 = "Learning C++ Strings";
+
+    cout << "C-style string: " << str1 << endl;
+    cout << "C++ string 1: " << str2 << endl;
+    cout << "C++ string 2: " << str3 << endl;
+    cout << "C++ string 3: " << str4 << endl;
+    cout << "C++ string 4: " << str5 << endl;
+    cout << "C++ string 5: " << str6 << endl;
+    cout << "C++ string 6: " << str7 << endl;
+
+    return 0;
+}
