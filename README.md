@@ -26,3 +26,13 @@ SAMPLE OUTPUT :
                      Maximum value: 90
 
          Declaring & intitalising a string:
+                    C-style string: Hello
+                    C++ string 1: World
+                    C++ string 2: Welcome
+                    C++ string 3: World
+                    C++ string 4: *****
+                    C++ string 5: World to C++
+                    C++ string 6: Learning C++ Strings
+
+
+         Concatenation of strings:   
