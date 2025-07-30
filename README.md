@@ -39,4 +39,7 @@ SAMPLE OUTPUT :
                     Concatenated string: Hello World
 
          Printing string in reverse:
+                    dlroW olleH
+
+         Palindrome checking:
          
