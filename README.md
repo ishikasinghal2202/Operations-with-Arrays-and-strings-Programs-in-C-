@@ -35,4 +35,8 @@ SAMPLE OUTPUT :
                     C++ string 6: Learning C++ Strings
 
 
-         Concatenation of strings:   
+         Concatenation of strings: 
+                    Concatenated string: Hello World
+
+         Printing string in reverse:
+         
