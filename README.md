@@ -17,3 +17,12 @@ SAMPLE OUTPUT :
 
 
          To find Minimum and maximum Number:
+                     Enter the number of elements (1 to 100): 3
+                     Enter 3 integers:
+                     Enter element 1: 90
+                     Enter element 2: 86
+                     Enter element 3: 43
+                     Minimum value: 43
+                     Maximum value: 90
+
+         Declaring & intitalising a string:
