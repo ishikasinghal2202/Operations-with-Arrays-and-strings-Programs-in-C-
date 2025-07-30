@@ -42,4 +42,6 @@ SAMPLE OUTPUT :
                     dlroW olleH
 
          Palindrome checking:
+                    Enter a string: Dad
+                    Not a palindrome.
          
