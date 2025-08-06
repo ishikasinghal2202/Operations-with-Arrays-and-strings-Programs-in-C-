@@ -82,7 +82,9 @@ SAMPLE OUTPUT :
 
 
          Concatenation of strings: 
-                    Concatenated string: Hello World
+                    Enter first string: helloooo
+                    Enter second string: cutuuuuuuuu
+                    Concatenated string: helloooo cutuuuuuuuu
 
          Printing string in reverse:
                     dlroW olleH
