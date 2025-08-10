@@ -58,8 +58,13 @@ SAMPLE OUTPUT :
                        Found at index 2
 
          Sum and average of array elements:
-                      Sum = 150
-                      Average = 30
+                      Enter the numbers of the array:
+                      1 2 4 5 6 7 
+                      The numbers of the array are:
+                      1 2 4 5 6 7 
+                      The sum of the elements of the array is:
+                      25
+                      The average of the elements of the array is: 4.16667
 
 
          To find Minimum and maximum Number:
