@@ -4,17 +4,28 @@
 using namespace std;
 
 int main() {
-     int arr[] = {10, 20,30, 40,50}, target;
-     int size = sizeof(arr) / sizeof(arr[0]);
-     int sum = 0;
-     
-     for (int i = 0; i < size; i++){
-         sum += arr[i];
-     }
-      float average = (float)sum / size;
-      
-      cout << "Sum = " << sum << endl;
-      cout << "Average = " << average << endl;
-      
+    int arr[6], sum = 0;
+    float average;
+
+    cout << "Enter the numbers of the array:" << endl;
+
+    for (int i = 0; i < 6; i++) {
+        cin >> arr[i];
+    }
+
+    cout << "The numbers of the array are:" << endl;
+    for (int n = 0; n < 6; n++) {
+        cout << arr[n] << " ";
+    }
+
+    cout << "\nThe sum of the elements of the array is:" << endl;
+    for (int i = 0; i < 6; i++) {
+        sum += arr[i];
+    }
+    cout << sum << endl;
+
+    average = static_cast<float>(sum) / 6;
+    cout << "The average of the elements of the array is: " << average << endl;
+
     return 0;
 }
